@@ -1,4 +1,4 @@
-# Baby Jane Magros Rodriguez — VA Portfolio
+# Baby Jane Magro Rodriguez — VA Portfolio
 
 A clean, single-page portfolio website ready for GitHub Pages.
 
